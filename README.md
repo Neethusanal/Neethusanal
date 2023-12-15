@@ -1,4 +1,4 @@
-[![MasterHead](https://www.oxfordcc.co.uk/files/AdobeStock_221978639-1024x459.jpeg)](https://rishavchanda.io)(https://github.com/Neethusanal/Neethu-Sanal-Kumar)
+[![MasterHead](https://www.oxfordcc.co.uk/files/AdobeStock_221978639-1024x459.jpeg)](https://github.com/Neethusanal/Neethu-Sanal-Kumar)
 
 <h1 align="center">Hi 👋, I'm Neethu Sanal Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
