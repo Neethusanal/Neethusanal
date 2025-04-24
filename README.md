@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhq9BgVIlwvu2xo1VDzgCOoSbAOL61tcLog&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neethusanal&label=Profile%20views&color=0e75b6&style=flat" alt="neethusanal" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **MERN,Java**
 
